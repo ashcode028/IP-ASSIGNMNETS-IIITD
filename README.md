@@ -1,3 +1,4 @@
 # IP-ASSIGNMNETS-IIITD
-asssignments are done in python
+asssignments ,tuts,labs conducted in the monsoon semester2019
+all are done in python
 
