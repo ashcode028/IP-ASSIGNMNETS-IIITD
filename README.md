@@ -1,2 +1,3 @@
 # IP-ASSIGNMNETS-IIITD
-questions and answer
+asssignments are done in python
+
