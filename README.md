@@ -27,4 +27,4 @@
 	7.COUNT NO OF PAIRS-SUBSTRING MANIPULATION
 	8.FIBONACCI
 
-  
+### QRfactorisation implementation 
